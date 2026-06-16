@@ -1,7 +1,9 @@
 # About me
 
-[![ko-fi](icons8-link-50.png)](https://links.payerhofer.eu)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F61XISYB)
+
+[![ko-fi](icons8-link-50.png)](https://links.payerhofer.eu)
+
 
 <!--
 **wildepic2/wildepic2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
