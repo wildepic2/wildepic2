@@ -8,6 +8,7 @@ And really love homelabbing
 * **Tools:** Docker, Git
 * **Current OS:** Arch Linux
 
-
+### Fun Facts
+* I learnt Github by myself and in school we would learn it **3.Grade**
 
 [Here you can find me](https://links.payerhofer.eu)   
