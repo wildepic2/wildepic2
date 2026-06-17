@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Botond Payerhofer
-I'm a Student in **HTL Pinkafeld** in first grade
+I'm a Student in [**HTL Pinkafeld**](https://www.htlpinkafeld.at) in first grade
 
 And really love [Homelabbing](https://payerhofer.eu)
 
