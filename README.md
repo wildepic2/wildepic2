@@ -11,6 +11,6 @@ And really love [Homelabbing](https://payerhofer.eu)
 ### Projects I work on currently
 
 ### Fun Facts
-* I learnt Github by myself and in school we would learn it **3.Grade**
+* I learnt Github by myself in **1.Grade** and in school we would learn it **3.Grade**
 
 [Here you can find me](https://links.payerhofer.eu)   
